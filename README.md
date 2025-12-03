@@ -38,5 +38,5 @@
 </div>
 
 <div align="center">
-  💙 **Thanks for visiting!** 💙 
+  💙 Thanks for visiting! 💙 
 </div>
