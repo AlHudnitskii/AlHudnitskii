@@ -30,13 +30,3 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexhud11)
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlHudnitskii&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-</div>
-
-<div align="center">
-  💙 Thanks for visiting! 💙 
-</div>
